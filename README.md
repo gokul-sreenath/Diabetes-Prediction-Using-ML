@@ -21,3 +21,7 @@ The dataset used for training originates from the National Institute of Diabetes
 * Number of Attributes: 8 plus class
 * Missing Attribute Values: Yes
 * Class Distribution: Class value 1 indicates a positive test for diabetes
+
+
+**streamlit==0.88.0
+
